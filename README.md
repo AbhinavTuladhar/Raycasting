@@ -6,6 +6,8 @@ Video: https://www.youtube.com/watch?v=TOEi6T2mtHo
 
 Github link:https://github.com/CodingTrain/website/tree/main/CodingChallenges/CC_145_Ray_Casting/P5
 
+## Modules required: pygame, math and numpy
+
 ## Instructions:
 
 Download all files and run the 'main.py' file.
